@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  color: #575252;
+}
+
+.App h1 {
+  color: black;
+  text-transform: uppercase;
+  margin: 50px 0;
+}

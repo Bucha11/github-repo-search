@@ -1,0 +1,28 @@
+.repoCard {
+  width: 500px;
+  border-bottom: 2px solid rgb(185, 236, 236);
+  margin: 0 auto;
+  margin-bottom: 30px;
+  padding: 20px;
+}
+
+.repoCard a {
+  color: #6d6a6a;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 17px;
+}
+
+.stat {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-top: 20px;
+}
+
+.icons {
+  width: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}

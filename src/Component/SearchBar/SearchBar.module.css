@@ -1,0 +1,19 @@
+.searchBar {
+  margin-bottom: 30px;
+}
+
+.searchBar input {
+  width: 400px;
+  font-size: 15px;
+  padding: 7px;
+  margin-right: 10px;
+  border: 2px solid rgb(109, 238, 238);
+  color: black;
+}
+
+.searchBar button {
+  width: 90px;
+  padding: 8px;
+  background-color: white;
+  border: 2px solid rgb(109, 238, 238);
+}
